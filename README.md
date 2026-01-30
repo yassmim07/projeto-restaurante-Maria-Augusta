@@ -9,12 +9,12 @@ O objetivo dessa atividade foi gerar um site simples (apenas com html e css) par
 - Extensão **Live Server** instalada no VS Code
 
 # Como rodar o projeto 💻
-1. Baixe o projeto
-2. Extraia a pasta
-3. Abra o projeto no Visual Studio Code
-4. Abra o arquivo `index.html`
-5. Clique com o botão direito do mouse no arquivo
-6. Selecione a opção **Open with Live Server**
+- Baixe o projeto
+- Extraia a pasta
+- Abra o projeto no Visual Studio Code
+- Abra o arquivo `index.html`
+- Clique com o botão direito do mouse no arquivo
+- Selecione a opção **Open with Live Server**
 
 # Tecnologias e Linguagens utilizadas 🌐 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
