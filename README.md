@@ -1,4 +1,4 @@
-# Site estático 
+
 
 # Visão Geral ⭐ 
 Atividade realizada para a matéria de Linguagens de Marcação, do curso técnico em Desenvolvimento de Sistemas do SENAI. 
